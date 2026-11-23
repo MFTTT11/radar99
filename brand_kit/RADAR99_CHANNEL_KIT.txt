@@ -1,0 +1,69 @@
+====================================================================
+📡 RADAR 99 | SCOUT RADARI — VİRAL KANAL KURULUM & MARKA KİTİ
+====================================================================
+
+1) KANAL İSMİ & KULLANICI ADI (HANDLE)
+--------------------------------------------------------------------
+Ana Kanal Adı   : RADAR 99
+Tam Başlık      : RADAR 99 • Scout Radarı
+YouTube Handle  : @radar99futbol  (Alternatif: @radar99scout, @radar99tr)
+TikTok / IG     : @radar99futbol  (Tüm platformlarda aynı handle!)
+
+Alternatif İsim Seçenekleri:
+- RADAR 99 (Önerilen — 99 EA FC tavan potansiyeli + global & Türkçe anında algı)
+- SCOUT RADARI (@scoutradari)
+- KEŞİF 99 (@kesif99)
+- GİZLİ KART (@gizlikart)
+
+2) YOUTUBE "HAKKINDA" (AÇIKLAMA) — KOPYALA & YAPIŞTIR
+--------------------------------------------------------------------
+Avrupa devleri kapmadan önce geleceğin yıldızlarını ilk sen tanı! 📡⚽
+
+RADAR 99, 18.405 EA FC 26 ve 50.149 güncel piyasa verisini tarayarak kimsenin henüz duymadığı 16–20 yaş gizli genç yetenekleri, Oyun DNA'sı eşleşmelerini ve 1v1 Wonderkid Düellolarını her gün 45 saniyede önüne getirir.
+
+🕵️ Her Gün 19:00 → Gizli Genç Yetenek Dosyası (Shorts)
+⚔️ Çarşamba & Cuma → 1v1 Wonderkid VS Düellosu
+🎬 Pazar 20:00 → Haftanın 5 Gizli Cevheri (16:9 Özel Bölüm)
+
+👇 Yorumlara "sıradaki yeteneği" yaz, Radar 99'u birlikte yönetelim!
+📩 İş birliği / Scout önerisi: [e-posta adresin]
+
+3) TIKTOK & INSTAGRAM REELS BİYOGRAFİ (KISA & VURUCU)
+--------------------------------------------------------------------
+📡 Devler kapmadan 16–20 yaş gizli yetenekler!
+🧬 18.405 canlı veri • Oyun DNA'sı • 1v1 Düello
+👇 Sıradaki wonderkid'i yorumlara yaz!
+
+4) YOUTUBE STUDIO KANAL ANAHTAR KELİMELERİ (Ayarlar → Kanal)
+--------------------------------------------------------------------
+radar 99, scout radarı, genç yetenekler, wonderkids 2026, gizli yetenekler, futbol scouting, ea fc 26 wonderkids, kariyer modu genç yetenekler, transfer hedefleri, süper lig genç yetenekler, futbol shorts, 1v1 futbol düello, kim bu futbolcu, gelecek yıldızlar, avrupa futbolu
+
+5) 20 SANİYELİK KANAL FRAGMANI (SABİT VİDEO SENARYOSU)
+--------------------------------------------------------------------
+"Real Madrid, City veya Galatasaray bu ismi açıkladığında herkes yeni duyacak... Ama sen 2 yıl önceden tanıyacaksın! RADAR 99 her gün 18 binden fazla oyuncuyu tarıyor, 16 ile 20 yaş arasındaki gizli cevherleri, Oyun DNA'sını ve piyasa değerini 45 saniyede önüne koyuyor. Devler kapmadan bu isimleri not almak istiyorsan şimdi abone ol — sıradaki gizli yetenek yolda!"
+
+6) İLK 7 GÜN "İNSANLARI KUYRUĞA SOKACAK" YAYIN TAKVİMİ
+--------------------------------------------------------------------
+GÜN 1 (Pzt 19:00) [Shorts] : "Bu 19 yaşındaki stoperi kimse bilmiyor! €1.2M • %96 Hincapié DNA" (Joachim Kayi Sanda — HAZIR!)
+GÜN 2 (Sal 19:00) [Shorts] : "16 yaşında +19 POT! Ligue 2'deki yeni Openda" (Djylian N'Guessan)
+GÜN 3 (Çar 19:00) [1v1 VS] : "Franco Mastantuono vs Roony Bardghji — Kim Daha Büyük Yıldız?" (HAZIR!)
+GÜN 4 (Per 19:00) [Shorts] : "Süper Lig'in €1M'lik gizli stoper cevheri!" (Arda Ünyay / İsak Vural)
+GÜN 5 (Cum 19:00) [1v1 VS] : "Rastgele 2 Gizli U20 Wonderkid Düellosu (--auto-gems)"
+GÜN 6 (Cmt 19:00) [Shorts] : "Güney Amerika & Balkanlar'dan 5M€ altı 18'lik fırtına!" (Filip Rózga / Kendry Páez)
+GÜN 7 (Paz 20:00) [16:9]   : "DEVLER KAPMADAN: 2026'nın En İyi 5 Gizli Genç Yeteneği" (run_weekly_episode.py)
+
+7) YOUTUBE STUDIO'DA 60 SANİYEDE KURULUM ADIMLARI
+--------------------------------------------------------------------
+1. studio.youtube.com → Özelleştirme → Marka Bilgileri:
+   - Profil Resmi       → brand_kit/profile_avatar_1000x1000.png
+   - Banner Resmi       → brand_kit/youtube_banner_2560x1440.jpg
+   - Video Filigranı    → brand_kit/youtube_watermark_150x150.png ("Tüm video boyunca")
+2. Özelleştirme → Temel Bilgiler:
+   - Ad                 → RADAR 99
+   - Kullanıcı Adı      → @radar99futbol
+   - Açıklama           → Yukarıdaki #2 metnini yapıştır
+3. Ayarlar → Kanal → Temel Bilgiler:
+   - Ülke               → Türkiye
+   - Anahtar Kelimeler  → Yukarıdaki #4 etiketlerini yapıştır
+4. İlk 2 hazır videoyu output/ klasöründen yükle + _seo.txt içindeki ilk yorumu sabitle!
+====================================================================
